@@ -1,0 +1,25 @@
+{
+  "name": "zain-dixeam26/laravel_utilities",
+  "description": "Dixeam Utilities Class",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Zain Ul Abideen",
+      "email": "zain26@dixeam.com"
+    }
+  ],
+  "require": {
+    "php": "7.1 - 7.4",
+    "laravel/framework": "5.5 - 7",
+  },
+  "require-dev": {
+    "phpunit/phpunit": "6.0 - 9.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Dixeam\\Classes\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
