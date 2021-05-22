@@ -19,5 +19,7 @@
     "psr-4": {
       "Dixeam\\Classes\\": "src/"
     }
-  }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
 }
